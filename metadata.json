@@ -1,0 +1,5 @@
+{
+  "name": "Math Adventure Quest",
+  "description": "一個有趣的數學學習遊戲，您需要回答問題來沿著路徑移動您的角色。您答對的問題越多，分數就越高！",
+  "requestFramePermissions": []
+}
